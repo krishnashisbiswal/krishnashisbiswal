@@ -1,8 +1,8 @@
 ## Hi, I’m Krishnashis Biswal 💖✨
 
--I’m interested in Learning Latest Technologies😍🎇
-I’m currently 
-- 📫 How to reach me 
+- 😉 I’m interested in Learning Latest Technologies
+- 👀 I’m currently Persuing B.Tech in CSE
+- 📫 Support me Here: [Instagram](https://www.instagram.com/darklegendfreefire/)[youtube](https://www.youtube.com/@darklegendfreefire)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im a hardcore Gamer whos interest has been changed to coding
 
