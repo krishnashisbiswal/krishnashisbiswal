@@ -2,7 +2,6 @@
 
 - 😉 I’m interested in Learning Latest Technologies
 - 👀 I’m currently Persuing B.Tech in CSE
-
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im a hardcore Gamer whos interest has been changed to coding
 
@@ -13,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🌐 Socials:
-- 📫 Support me Here: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=violet)](https://www.instagram.com/darklegendfreefire/) & [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@darklegendfreefire)
+- 📫 Support me Here: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/darklegendfreefire/), [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@darklegendfreefire)
+
 - 📧Contact Me :[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnashisbiswal@gmail.com) &  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnashisbiswal)
 
 # 💻 Tech Stack:
